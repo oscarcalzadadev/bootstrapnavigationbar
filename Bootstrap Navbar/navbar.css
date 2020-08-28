@@ -1,0 +1,7 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.text-white:hover {
+    color: rgb(141, 98, 226) !important;
+}
